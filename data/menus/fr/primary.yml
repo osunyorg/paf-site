@@ -13,8 +13,8 @@ items:
   target: "/projets/"
   kind: page
   children: []
-- title: Équipe
-  target: "/equipe/"
+- title: Personnes impliquées
+  target: "/personnes-impliquees/"
   kind: page
   children: []
 - title: Organisations
