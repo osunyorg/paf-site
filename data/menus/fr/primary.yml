@@ -13,7 +13,7 @@ items:
   target: "/projets/"
   kind: page
   children: []
-- title: Équipe
+- title: Personnes impliquées
   target: "/equipe/"
   kind: page
   children: []
