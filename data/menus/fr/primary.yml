@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  target: "/projets/"
-  kind: page
-  children: []
 - title: Personnes impliquées
   target: "/personnes-impliquees/"
   kind: page
