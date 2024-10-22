@@ -55,13 +55,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 79
+  seconds: 81
   text: >-
     1 minute
 contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -82,16 +84,24 @@ contents:
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       3 jours, 3 lieux, 1 festival
-    slug: "3-jours-3-lieux-1-festival"
-    position: 1
-    rank: 2
+    slug: >-
+      3-jours-3-lieux-1-festival
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: agenda
     title: >-
       Jeudi 6 juin
+    slug: >-
+      jeudi-6-juin
     ranks:
       self: 3
       children: 4
@@ -119,38 +129,13 @@ contents:
           file: "events/archives/2024/2024-06-06-soiree-douverture-du-festival.html"
 
 
-  - kind: block
-    template: agenda
-    title: >-
-      Vendredi 7 juin
-    ranks:
-      self: 3
-    data:
-      mode: category
-      options:
-        categories: false
-        dates: true
-        image: true
-        subtitle: true
-        summary: true
-        status: false
-
-      layout: list
-      description: >-
-        <p>À l’hôpital Paul Guiraud, 54 Avenue de la République, à Villejuif (94800)</p>
-
-      no_event_message: >-
-        
-
-      title_link: "/agenda/hors-les-murs/"
-      category: "/hors-les-murs/"
-      events:
-
 
   - kind: block
     template: agenda
     title: >-
       Samedi 8 juin
+    slug: >-
+      samedi-8-juin
     ranks:
       self: 3
     data:
@@ -179,6 +164,8 @@ contents:
     template: chapter
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -198,16 +185,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Pourquoi Paul Guiraud fait son festival ?
-    slug: "pourquoi-paul-guiraud-fait-son-festival"
-    position: 2
-    rank: 2
+    slug: >-
+      pourquoi-paul-guiraud-fait-son-festival
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -225,7 +219,6 @@ contents:
 
       credit: >-
         
-
 
 
 
