@@ -5,12 +5,15 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: Personnes impliquées
   target: "/personnes-impliquees/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 - title: Organisations
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 
