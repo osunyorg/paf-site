@@ -15,142 +15,142 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/organisations/associations/"
+from = "/organisations/associations/index.html"
 to = "/organisations/categories/associations/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-balade-urbaine/"
+from = "/agenda/2024-06-07-balade-urbaine/index.html"
 to = "/agenda/2024/balade-urbaine/"
 
 [[redirects]]
-from = "/organisations/batukh/"
+from = "/organisations/batukh/index.html"
 to = "/organisations/batuk-h/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-cocktail-dinatoire/"
+from = "/agenda/2024-06-07-cocktail-dinatoire/index.html"
 to = "/agenda/2024/cocktail-dinatoire/"
 
 [[redirects]]
-from = "/equipe/mamari-munezero/"
+from = "/equipe/mamari-munezero/index.html"
 to = "/personnes-impliquees/mamari-munezero/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/personnes-impliquees/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-atelier-yoga-adapte/"
+from = "/agenda/2024-06-08-atelier-yoga-adapte/index.html"
 to = "/agenda/2024/atelier-yoga-adapte/"
 
 [[redirects]]
-from = "/personnes-impliquees/humouristes/"
+from = "/personnes-impliquees/humouristes/index.html"
 to = "/personnes-impliquees/categories/humouristes/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-mina-trio/"
+from = "/agenda/2024-06-08-mina-trio/index.html"
 to = "/agenda/2024/mina-trio/"
 
 [[redirects]]
-from = "/organisations/groupes-de-musique/"
+from = "/organisations/groupes-de-musique/index.html"
 to = "/organisations/categories/groupes-de-musique/"
 
 [[redirects]]
-from = "/personnes-impliquees/auteurs-autrices/"
+from = "/personnes-impliquees/auteurs-autrices/index.html"
 to = "/personnes-impliquees/categories/auteurs-autrices/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-batukh-batucada/"
+from = "/agenda/2024-06-07-batukh-batucada/index.html"
 to = "/agenda/2024/batukh-batucada/"
 
 [[redirects]]
-from = "/equipe/lucide-de-peslouan/"
+from = "/equipe/lucide-de-peslouan/index.html"
 to = "/personnes-impliquees/lucide-de-peslouan/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-percujam/"
+from = "/agenda/2024-06-08-percujam/index.html"
 to = "/agenda/2024/percujam/"
 
 [[redirects]]
-from = "/equipe/francois-mallet/"
+from = "/equipe/francois-mallet/index.html"
 to = "/personnes-impliquees/francois-mallet/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-schizophrenia/"
+from = "/agenda/2024-06-08-schizophrenia/index.html"
 to = "/agenda/2024/schizophrenia/"
 
 [[redirects]]
-from = "/equipe/humouristes/"
+from = "/equipe/humouristes/index.html"
 to = "/personnes-impliquees/categories/humouristes/"
 
 [[redirects]]
-from = "/equipe/auteurs-autrices/"
+from = "/equipe/auteurs-autrices/index.html"
 to = "/personnes-impliquees/categories/auteurs-autrices/"
 
 [[redirects]]
-from = "/agenda/2024-06-06-soiree-douverture-du-festival/"
+from = "/agenda/2024-06-06-soiree-douverture-du-festival/index.html"
 to = "/agenda/2024/soiree-douverture-du-festival/"
 
 [[redirects]]
-from = "/personnes-impliquees/village-des-talents/"
+from = "/personnes-impliquees/village-des-talents/index.html"
 to = "/personnes-impliquees/categories/village-des-talents/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-discours-douverture/"
+from = "/agenda/2024-06-08-discours-douverture/index.html"
 to = "/agenda/2024/discours-douverture/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-enregistrement-live/"
+from = "/agenda/2024-06-08-enregistrement-live/index.html"
 to = "/agenda/2024/enregistrement-live/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/personnes-impliquees/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-allumer-le-feu/"
+from = "/agenda/2024-06-08-allumer-le-feu/index.html"
 to = "/agenda/2024/allumer-le-feu/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-stand-up-de-f-mallet-mamari-zofia/"
+from = "/agenda/2024-06-07-stand-up-de-f-mallet-mamari-zofia/index.html"
 to = "/agenda/2024/stand-up-de-f-mallet-mamari-zofia/"
 
 [[redirects]]
-from = "/organisations/organismes-hospitaliers/"
+from = "/organisations/organismes-hospitaliers/index.html"
 to = "/organisations/categories/organismes-hospitaliers/"
 
 [[redirects]]
-from = "/equipe/village-des-talents/"
+from = "/equipe/village-des-talents/index.html"
 to = "/personnes-impliquees/categories/village-des-talents/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-projection-talk-perches/"
+from = "/agenda/2024-06-07-projection-talk-perches/index.html"
 to = "/agenda/2024/projection-talk-perches/"
 
 [[redirects]]
-from = "/organisations/village-des-talents/"
+from = "/organisations/village-des-talents/index.html"
 to = "/organisations/categories/village-des-talents/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-atelier-premier-secours/"
+from = "/agenda/2024-06-08-atelier-premier-secours/index.html"
 to = "/agenda/2024/atelier-premier-secours/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-ouverture-du-village-des-talents/"
+from = "/agenda/2024-06-08-ouverture-du-village-des-talents/index.html"
 to = "/agenda/2024/ouverture-du-village-des-talents/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-les-mots-de-la-folie/"
+from = "/agenda/2024-06-08-les-mots-de-la-folie/index.html"
 to = "/agenda/2024/les-mots-de-la-folie/"
 
 [[redirects]]
-from = "/agenda/2024-06-07-deraisonnable/"
+from = "/agenda/2024-06-07-deraisonnable/index.html"
 to = "/agenda/2024/deraisonnable/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-wink-from-universe/"
+from = "/agenda/2024-06-08-wink-from-universe/index.html"
 to = "/agenda/2024/wink-from-universe/"
 
 [[redirects]]
-from = "/agenda/2024-06-08-activites-sportives/"
+from = "/agenda/2024-06-08-activites-sportives/index.html"
 to = "/agenda/2024/activites-sportives/"
 
